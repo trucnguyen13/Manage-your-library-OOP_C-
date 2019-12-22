@@ -1,0 +1,121 @@
+10
+1
+Book's code: 
+1
+Book's name: 
+thanh hoa viet nam
+Book's author: 
+truc nguyen
+Book's publisher: 
+vn
+Book's price: 
+1
+Book's ISBN: 
+1
+0
+Book's code: 
+2
+Book's name: 
+nghe an viet nam
+Book's author: 
+an nguyen
+Book's publisher: 
+vn
+Book's price: 
+2
+1
+Book's code: 
+3
+Book's name: 
+ha tinh viet nam
+Book's author: 
+quan le
+Book's publisher: 
+vn
+Book's price: 
+3
+Book's ISBN: 
+3
+0
+Book's code: 
+4
+Book's name: 
+quang binh viet nam
+Book's author: 
+an nguyen
+Book's publisher: 
+usa
+Book's price: 
+4
+1
+Book's code: 
+5
+Book's name: 
+quang tri viet nam
+Book's author: 
+truc nguyen
+Book's publisher: 
+phap
+Book's price: 
+5
+Book's ISBN: 
+5
+0
+Book's code: 
+6
+Book's name: 
+hue viet nam
+Book's author: 
+an nguyen
+Book's publisher: 
+anh
+Book's price: 
+6
+1
+Book's code: 
+7
+Book's name: 
+da nang viet nam
+Book's author: 
+quan le
+Book's publisher: 
+phap
+Book's price: 
+7
+Book's ISBN: 
+7
+0
+Book's code: 
+8
+Book's name: 
+quang nam viet nam
+Book's author: 
+truc nguyen
+Book's publisher: 
+usa
+Book's price: 
+8
+1
+Book's code: 
+9
+Book's name: 
+quang ngai viet nam
+Book's author: 
+an nguyen
+Book's publisher: 
+vn
+Book's price: 
+9
+Book's ISBN: 
+9
+0
+Book's code: 
+10
+Book's name: 
+binh dinh viet nam
+Book's author: 
+quan le
+Book's publisher: 
+10
+Book's price: 
+10
